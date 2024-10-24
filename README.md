@@ -8,3 +8,11 @@ This project focuses on developing a system that detects fights in real-time usi
 2. Ability to detect fights in sequences of 8 frames.
 3. Implemented using state-of-the-art models such as 3D CNN, 2D CNN + LSTM, and 3D CNN + LSTM.
 4. Models have been trained and tested on sequences of frames resized to (150, 150, 3).
+
+### Model Descriptions
+1. 2D CNN + LSTM: This model extracts spatial features using 2D CNN layers and then passes these features to LSTM layers to capture temporal information across frames.
+
+2. 3D CNN: This model utilizes 3D convolutional layers to capture both spatial and temporal features from the video sequences in a single pass.
+
+3. 3D CNN + LSTM: A hybrid approach combining 3D CNN layers for initial spatial-temporal feature extraction, followed by LSTM layers to capture temporal dependencies.
+
