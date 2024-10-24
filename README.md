@@ -110,6 +110,9 @@ Fight Detection Project
     <img src="https://github.com/yaseeng-md/Real_Time_Fight_Detection_Through_Surveillance_Cameras/blob/main/Images/Paper%20in%20between%20images/noFight%20Predicition.png"alt="noFight" width="400" height="300" style="margin: 10px;"/>
 </div>
 
+## Conclusion
+In conclusion, this project successfully demonstrates the effectiveness of advanced deep learning techniques for real-time fight detection through surveillance cameras. By leveraging models such as 2DNN + LSTM, 3DCNN, and 3DCNN + LSTM, we achieved significant improvements in detecting fights in video sequences. The implementation of a frame resizing strategy also contributed to enhanced model performance. Overall, this research provides a valuable foundation for future developments in surveillance systems aimed at ensuring public safety.
+
 ## Authors
 
 - [@Karthikkosuri](https://github.com/Karthikkosuri)
