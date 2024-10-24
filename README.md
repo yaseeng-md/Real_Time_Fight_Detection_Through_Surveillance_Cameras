@@ -28,7 +28,54 @@ pip install -r requirements.txt
 ```
 Run the provided Jupyter notebooks to preprocess the data, train models, and make predictions.
 
-After downloading the datasets, you may extract them under `data/real` and `data/fake` respectively. In the end, the `data` directory should look like this:
+After downloading the repository, :
+```bash
+Fight Detection Project
+├── .gitattributes
+├── fight
+|      ├── fight
+|      ├── noFight
+|      ├── LICENSE
+|      ├── README
+|      └── videos
+├── 3D_CNN and 3D_CNN_LSTM_Model.ipynb          # Jupyter notebook implementing 3D CNN and 3D CNN + LSTM models
+├── CNN_LSTM_Model.ipynb                        # Jupyter notebook implementing CNN + LSTM model
+├── Prediction_module.ipynb                     # Jupyter notebook for running predictions on new data
+├── Images                                      # Directory containing images used in the project
+│   ├── Model Architectures
+│   │   ├── 3D_CNN_LSTM_Model.png               # Architecture diagram for the 3D CNN + LSTM model
+│   │   ├── 3D_CNN_Model.png                    # Architecture diagram for the 3D CNN model
+│   │   └── cnn_lstm_model_arch.png             # Architecture diagram for the CNN + LSTM model
+│   │
+│   ├── Paper in between images
+│   │   ├── frames_plot.png                     # Plot of frames used for model input
+│   │   ├── noFight Prediction.png              # Example output showing no fight detected
+│   │   ├── output.png                          # General model output image
+│   │   └── Prediction.png                      # Prediction results for fight detection
+│   │
+│   └── Plots
+│       ├── 3D_CNN_Accuracy_Plot.jpg            # Accuracy plot for 3D CNN model
+│       ├── 3D_CNN_Loss_Plot.jpg                # Loss plot for 3D CNN model
+│       ├── 3D_CNN_LSTM_Accuracy_plot.jpg       # Accuracy plot for 3D CNN + LSTM model
+│       ├── 3D_CNN_LSTM_Loss_plot.jpg           # Loss plot for 3D CNN + LSTM model
+│       ├── cnn_lstm_model_acc.jpg              # Accuracy plot for CNN + LSTM model
+│       └── cnn_lstm_model_loss.jpg             # Loss plot for CNN + LSTM model
+│
+├── Model History                               # Model training history files
+│   ├── 3D_CNN_LSTM_History.csv                 # Training history for 3D CNN + LSTM model
+│   ├── cnn_lstm_model_history.pkl              # Pickled history for CNN + LSTM model
+│   └── ThreeD_model_history.csv                # Training history for 3D CNN model
+│
+├── .ipynb_checkpoints                          # Jupyter notebook checkpoint files
+│   └── ThreeD_model_history-checkpoint.csv
+│
+└── Saved_Models                                # Directory containing saved models
+    ├── 3D_CNN_LSTM_Model.keras                 # Saved 3D CNN + LSTM model in Keras format
+    ├── 3D_CNN_Model.keras                      # Saved 3D CNN model in Keras format
+    ├── CNN_LSTM.h5                             # Saved CNN + LSTM model in .h5 format
+    └── CNN_LSTM.keras                          # Saved CNN + LSTM model in Keras format
+
+
 
 
 ## The Results:
