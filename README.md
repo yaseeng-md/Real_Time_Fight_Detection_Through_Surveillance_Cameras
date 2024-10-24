@@ -86,7 +86,7 @@ Fight Detection Project
 
 ## The plots
 ### Frame represnetaion 
-![1](https://github.com/04vaishnavi28/Cricket-Data-Analytics/assets/132866693/803560ed-eb32-41a9-a34d-307e08ed3210)
+![1](https://github.com/yaseeng-md/Real_Time_Fight_Detection_Through_Surveillance_Cameras/blob/main/Images/Paper%20in%20between%20images/frames_plot.png)
 
 
 
