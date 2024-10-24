@@ -88,8 +88,12 @@ Fight Detection Project
 
 ### Training Accuracies
 ## 2D CNN + LSTM
-![1](https://github.com/yaseeng-md/Real_Time_Fight_Detection_Through_Surveillance_Cameras/blob/main/Images/Plots/cnn_lstm_model_acc.jpg)
-![2](https://github.com/yaseeng-md/Real_Time_Fight_Detection_Through_Surveillance_Cameras/blob/main/Images/Plots/cnn_lstm_model_loss.jpg)
+
+<div style="display: flex; justify-content: space-around;">
+    <img src="https://github.com/yaseeng-md/Real_Time_Fight_Detection_Through_Surveillance_Cameras/blob/main/Images/Plots/cnn_lstm_model_acc.jpg" alt="Accuracy" width="400" height="300"/>
+    <img src="https://github.com/yaseeng-md/Real_Time_Fight_Detection_Through_Surveillance_Cameras/blob/main/Images/Plots/cnn_lstm_model_loss.jpg" alt="Loss" width="400" height="300"/>
+</div>
+
 
 
 ## Authors
