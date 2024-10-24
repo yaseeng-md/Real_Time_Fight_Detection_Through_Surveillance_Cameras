@@ -16,7 +16,7 @@ This project focuses on developing a system that detects fights in real-time usi
 
 3. 3D CNN + LSTM: A hybrid approach combining 3D CNN layers for initial spatial-temporal feature extraction, followed by LSTM layers to capture temporal dependencies.
 ## Dataset
-[Download the dataset used in this experiment from here !](https://divvy-tripdata.s3.amazonaws.com/index.html)
+[Download the dataset used in this experiment from here !](https://github.com/seymanurakti/fight-detection-surv-dataset)
 
 ## How to Use This Repository
 Clone the repository using:
