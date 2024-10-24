@@ -84,9 +84,7 @@ Fight Detection Project
 | 3D CNN                    | 1.0(100%)                | 0.784(78%)        |
 | 3D CNN + LSTM             | 1.0(100%)                | 0.635(63%)        |
 
-## The plots
 
-### Training Accuracies
 ## 2D CNN + LSTM
 
 <div style="display: flex; justify-content: center;">
