@@ -74,8 +74,7 @@ Fight Detection Project
     ├── 3D_CNN_Model.keras                      # Saved 3D CNN model in Keras format
     ├── CNN_LSTM.h5                             # Saved CNN + LSTM model in .h5 format
     └── CNN_LSTM.keras                          # Saved CNN + LSTM model in Keras format
-
-
+```
 
 
 ## The Results:
