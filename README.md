@@ -16,3 +16,14 @@ This project focuses on developing a system that detects fights in real-time usi
 
 3. 3D CNN + LSTM: A hybrid approach combining 3D CNN layers for initial spatial-temporal feature extraction, followed by LSTM layers to capture temporal dependencies.
 
+## How to Use This Repository
+Clone the repository using:
+```bash
+  git clone https://github.com/yaseeng-md/Real_Time_Fight_Detection_Through_Surveillance_Cameras.git
+  cd Real_Time_Fight_Detection_Through_Surveillance_Cameras
+```
+Install the necessary dependencies from the requirements.txt file.
+```bash
+pip install -r requirements.txt
+```
+Run the provided Jupyter notebooks to preprocess the data, train models, and make predictions.
