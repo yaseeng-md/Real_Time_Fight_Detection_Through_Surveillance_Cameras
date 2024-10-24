@@ -28,5 +28,3 @@ pip install -r requirements.txt
 ```
 Run the provided Jupyter notebooks to preprocess the data, train models, and make predictions.
 
-##The Results of the Experiment 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
