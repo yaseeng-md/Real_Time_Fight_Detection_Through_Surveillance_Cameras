@@ -28,3 +28,19 @@ pip install -r requirements.txt
 ```
 Run the provided Jupyter notebooks to preprocess the data, train models, and make predictions.
 
+
+## The Results of Differnt models are shown below
+| Model                     | Training Accuracy        |Validation Accuracy|
+| 2D CNN + LSTM             | 0.99(99%)                | 0.632 (63%)|
+| 3D CNN                    | 1.0(100%)                | 0.784(78%) |
+| 3D CNN + LSTM             | 1.0(100%)                | 0.635(63%) |
+
+
+
+
+
+
+## Authors
+
+- [@Karthikkosuri](https://www.github.com/octokatherine)
+- [@yaseeng-md]("https://github.com/yaseeng-md")
