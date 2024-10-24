@@ -92,5 +92,5 @@ Fight Detection Project
 
 ## Authors
 
-- [@Karthikkosuri](https://www.github.com/octokatherine)
-- [@yaseeng-md]("https://github.com/yaseeng-md")
+- [@Karthikkosuri](https://github.com/Karthikkosuri)
+- [@yaseeng-md](https://github.com/yaseeng-md)
