@@ -94,12 +94,17 @@ Fight Detection Project
     <img src="https://github.com/yaseeng-md/Real_Time_Fight_Detection_Through_Surveillance_Cameras/blob/main/Images/Plots/cnn_lstm_model_loss.jpg" alt="Loss" width="400" height="300" style="margin: 10px;"/>
 </div>
 
-# 3D CNN
+## 3D CNN
 <div style="display: flex; justify-content: center;">
     <img src="https://github.com/yaseeng-md/Real_Time_Fight_Detection_Through_Surveillance_Cameras/blob/main/Images/Plots/3D_CNN_Accuracy_Plot.jpg" alt="Accuracy" width="400" height="300" style="margin: 10px;"/>
     <img src="https://github.com/yaseeng-md/Real_Time_Fight_Detection_Through_Surveillance_Cameras/blob/main/Images/Plots/3D_CNN_Loss_Plot.jpg" alt="Loss" width="400" height="300" style="margin: 10px;"/>
 </div>
 
+## 3D CNN + LSTM
+<div style="display: flex; justify-content: center;">
+    <img src="https://github.com/yaseeng-md/Real_Time_Fight_Detection_Through_Surveillance_Cameras/blob/main/Images/Plots/3D_CNN_LSTM_Accuracy_plot.jpg" alt="Accuracy" width="400" height="300" style="margin: 10px;"/>
+    <img src="https://github.com/yaseeng-md/Real_Time_Fight_Detection_Through_Surveillance_Cameras/blob/main/Images/Plots/3D_CNN_LSTM_Loss_plot.jpg"  alt="Loss" width="400" height="300" style="margin: 10px;"/>
+</div>
 
 
 
