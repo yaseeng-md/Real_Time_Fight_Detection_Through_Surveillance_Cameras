@@ -85,7 +85,8 @@ Fight Detection Project
 | 3D CNN + LSTM             | 1.0(100%)                | 0.635(63%)        |
 
 ## The plots
-
+### Frame represnetaion 
+![1](https://github.com/04vaishnavi28/Cricket-Data-Analytics/assets/132866693/803560ed-eb32-41a9-a34d-307e08ed3210)
 
 
 
