@@ -85,10 +85,11 @@ Fight Detection Project
 | 3D CNN + LSTM             | 1.0(100%)                | 0.635(63%)        |
 
 ## The plots
-### Frame represnetaion 
-![1](https://github.com/yaseeng-md/Real_Time_Fight_Detection_Through_Surveillance_Cameras/blob/main/Images/Paper%20in%20between%20images/frames_plot.png)
 
-
+### Training Accuracies
+## 2D CNN + LSTM
+![1](https://github.com/yaseeng-md/Real_Time_Fight_Detection_Through_Surveillance_Cameras/blob/main/Images/Plots/cnn_lstm_model_acc.jpg)
+![2](https://github.com/yaseeng-md/Real_Time_Fight_Detection_Through_Surveillance_Cameras/blob/main/Images/Plots/cnn_lstm_model_loss.jpg)
 
 
 ## Authors
