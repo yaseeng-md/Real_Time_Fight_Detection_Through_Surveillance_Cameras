@@ -15,6 +15,8 @@ This project focuses on developing a system that detects fights in real-time usi
 2. 3D CNN: This model utilizes 3D convolutional layers to capture both spatial and temporal features from the video sequences in a single pass.
 
 3. 3D CNN + LSTM: A hybrid approach combining 3D CNN layers for initial spatial-temporal feature extraction, followed by LSTM layers to capture temporal dependencies.
+## Dataset
+[Download the Dataset Used](https://divvy-tripdata.s3.amazonaws.com/index.html).
 
 ## How to Use This Repository
 Clone the repository using:
