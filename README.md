@@ -104,7 +104,11 @@ Fight Detection Project
     <img src="https://github.com/yaseeng-md/Real_Time_Fight_Detection_Through_Surveillance_Cameras/blob/main/Images/Plots/3D_CNN_LSTM_Loss_plot.jpg"  alt="Loss" width="400" height="300" style="margin: 10px;"/>
 </div>
 
-
+## Output
+<div style="display: flex; justify-content: center;">
+    <img src="https://github.com/yaseeng-md/Real_Time_Fight_Detection_Through_Surveillance_Cameras/blob/main/Images/Paper%20in%20between%20images/Predction.png"alt="Accuracy" width="400" height="300" style="margin: 10px;"/>
+    <img src="https://github.com/yaseeng-md/Real_Time_Fight_Detection_Through_Surveillance_Cameras/blob/main/Images/Paper%20in%20between%20images/Predction.png" alt="Loss" width="400" height="300" style="margin: 10px;"/>
+</div>
 
 ## Authors
 
