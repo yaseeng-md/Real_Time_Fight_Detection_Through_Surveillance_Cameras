@@ -1,41 +1,10 @@
 # Real Time Fight Detection Through Surveillance Cameras
-Fight Detection Project/
-│
-├── .gitattributes
-├── 3D_CNN and 3D_CNN_LSTM_Model.ipynb
-├── CNN_LSTM_Model.ipynb
-├── Prediction_module.ipynb
-│
-├── Images/
-│   ├── Model Architectures/
-│   │   ├── 3D_CNN_LSTM_Model.png
-│   │   ├── 3D_CNN_Model.png
-│   │   ├── cnn_lstm_model_arch.png
-│   │
-│   ├── Paper in between images/
-│   │   ├── frames_plot.png
-│   │   ├── noFight Prediction.png
-│   │   ├── output.png
-│   │   ├── Prediction.png
-│   │
-│   ├── Plots/
-│       ├── 3D_CNN_Accuracy_Plot.jpg
-│       ├── 3D_CNN_Loss_Plot.jpg
-│       ├── 3D_CNN_LSTM_Accuracy_plot.jpg
-│       ├── 3D_CNN_LSTM_Loss_plot.jpg
-│       ├── cnn_lstm_model_acc.jpg
-│       ├── cnn_lstm_model_loss.jpg
-│
-├── Model History/
-│   ├── 3D_CNN_LSTM_History.csv
-│   ├── cnn_lstm_model_history.pkl
-│   ├── ThreeD_model_history.csv
-│
-├── .ipynb_checkpoints/
-│   ├── ThreeD_model_history-checkpoint.csv
-│
-├── Saved_Models/
-    ├── 3D_CNN_LSTM_Model.keras
-    ├── 3D_CNN_Model.keras
-    ├── CNN_LSTM.h5
-    ├── CNN_LSTM.keras
+
+### Project Description
+This project focuses on developing a system that detects fights in real-time using surveillance cameras. With the increasing need for public safety, fight detection systems can assist in identifying violent activities in real time, enabling swift responses. The system processes video sequences from surveillance footage, classifies them as "fight" or "no fight," and provides accurate predictions using deep learning models.
+
+### Key Features:
+1. Real-time processing of surveillance video streams.
+2. Ability to detect fights in sequences of 8 frames.
+3. Implemented using state-of-the-art models such as 3D CNN, 2D CNN + LSTM, and 3D CNN + LSTM.
+4. Models have been trained and tested on sequences of frames resized to (150, 150, 3).
