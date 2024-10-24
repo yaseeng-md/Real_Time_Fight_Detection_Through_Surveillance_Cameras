@@ -33,11 +33,11 @@ After downloading the repository, :
 Fight Detection Project
 ├── .gitattributes
 ├── fight
-|      ├── fight
-|      ├── noFight
-|      ├── LICENSE
-|      ├── README
-|      └── videos
+│      ├── fight
+│      ├── noFight
+│      ├── LICENSE
+│      ├── README
+│      └── videos
 ├── 3D_CNN and 3D_CNN_LSTM_Model.ipynb          # Jupyter notebook implementing 3D CNN and 3D CNN + LSTM models
 ├── CNN_LSTM_Model.ipynb                        # Jupyter notebook implementing CNN + LSTM model
 ├── Prediction_module.ipynb                     # Jupyter notebook for running predictions on new data
