@@ -89,7 +89,7 @@ Fight Detection Project
 
 ## 2D CNN + LSTM
 ### Architecture 
-<img src="https://github.com/yaseeng-md/Real_Time_Fight_Detection_Through_Surveillance_Cameras/blob/main/Images/Model%20Architectures/2D%20CNN%20Architechure.drawio.png" alt="Project Diagram" width="500"/>
+<img src="https://github.com/yaseeng-md/Real_Time_Fight_Detection_Through_Surveillance_Cameras/blob/main/Images/Model%20Architectures/2D%20CNN%20Architechure.drawio.png" alt="Project Diagram"/>
 
 <!--     <img src="https://github.com/yaseeng-md/Real_Time_Fight_Detection_Through_Surveillance_Cameras/blob/main/Images/Model%20Architectures/2D%20CNN%20%2B%20LSTM.png" alt="Loss" width="400" height="300" style="margin: 10px;"/> -->
 </div>
