@@ -101,7 +101,7 @@ Fight Detection Project
 <img src="https://github.com/yaseeng-md/Real_Time_Fight_Detection_Through_Surveillance_Cameras/blob/main/Images/Model%20Architectures/3D%20CNN%20Architechure.drawio.png" alt="Project Diagram" width = "1000"/>
 ### Accuracy and Loss Plots
 <div style="display: flex; justify-content: center;">
-    <img src="https://github.com/yaseeng-md/Real_Time_Fight_Detection_Through_Surveillance_Cameras/blob/main/Images/Plots/3D_CNN_Accuracy_Plot.jpg" alt="Accuracy" width="500" height="500" style="margin: 10px;"/>
+    <img src="https://github.com/yaseeng-md/Real_Time_Fight_Detection_Through_Surveillance_Cameras/blob/main/Images/Plots/3D_CNN_Accuracy_Plot.jpg" alt="Accuracy" width="500" height="300" style="margin: 10px;"/>
     <img src="https://github.com/yaseeng-md/Real_Time_Fight_Detection_Through_Surveillance_Cameras/blob/main/Images/Plots/3D_CNN_Loss_Plot.jpg" alt="Loss" width="500" height="300" style="margin: 10px;"/>
 </div>
 
