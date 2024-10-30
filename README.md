@@ -86,6 +86,9 @@ Fight Detection Project
 | 3D CNN                    | 1.0(100%)                | 0.784(78%)        |
 | 3D CNN + LSTM             | 1.0(100%)                | 0.635(63%)        |
 
+## Workflow of Model
+<img src="https://github.com/yaseeng-md/Real_Time_Fight_Detection_Through_Surveillance_Cameras/blob/main/Images/Paper%20in%20between%20images/Workflow%20of%20the%20Prediction.png" alt="Project Diagram" width = "800"/>
+
 
 ## 2D CNN + LSTM
 ### Architecture 
