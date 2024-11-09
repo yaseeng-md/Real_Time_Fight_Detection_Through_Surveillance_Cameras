@@ -17,7 +17,8 @@ This project focuses on developing a system that detects fights in real-time usi
 3. 3D CNN + LSTM: A hybrid approach combining 3D CNN layers for initial spatial-temporal feature extraction, followed by LSTM layers to capture temporal dependencies.
 ## Dataset
 [Download the dataset used in this experiment from here !](https://github.com/seymanurakti/fight-detection-surv-dataset)
-
+## Trained Models:
+[Download the trained models generated in this project here !](https://drive.google.com/drive/folders/11GF52KFWMzQlpyJfWRk6qweE94DtX3-m?usp=sharing)
 ## How to Use This Repository
 Clone the repository using:
 ```bash
@@ -72,10 +73,11 @@ Fight Detection Project
 │   └── ThreeD_model_history-checkpoint.csv
 │
 └── Saved_Models                                # Directory containing saved models
-    ├── 3D_CNN_LSTM_Model.keras                 # Saved 3D CNN + LSTM model in Keras format
-    ├── 3D_CNN_Model.keras                      # Saved 3D CNN model in Keras format
-    ├── CNN_LSTM.h5                             # Saved CNN + LSTM model in .h5 format
-    └── CNN_LSTM.keras                          # Saved CNN + LSTM model in Keras format
+    ├── 3D_CNN_LSTM_Model.keras               
+    ├── 3D_CNN_Model.keras                            
+    ├── 3D_CNN + BiLSTM Model.keras                                   
+    ├── CNN + BiLSTM Model.keras                         
+    └── CNN_LSTM.keras                         
 ```
 
 
@@ -85,7 +87,8 @@ Fight Detection Project
 | 2D CNN + LSTM             | 0.99(99%)                | 0.632 (63%)       |
 | 3D CNN                    | 1.0(100%)                | 0.784(78%)        |
 | 3D CNN + LSTM             | 1.0(100%)                | 0.635(63%)        |
-
+| 3D CNN + BiLSTM           | 1.0(100%)                | 0.79(79%)         |
+| 2D CNN + BiLSTM           | 0.985(98.5%)             | 0.667(66.7%)      |
 ## Workflow of Model
 <img src="https://github.com/yaseeng-md/Real_Time_Fight_Detection_Through_Surveillance_Cameras/blob/main/Images/Paper%20in%20between%20images/Workflow%20of%20the%20Prediction.png" alt="Project Diagram" width = "800"/>
 
