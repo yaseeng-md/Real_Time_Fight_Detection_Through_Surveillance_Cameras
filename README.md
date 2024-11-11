@@ -102,6 +102,10 @@ Accuracy and Loss Plots
     <img src="https://github.com/yaseeng-md/Real_Time_Fight_Detection_Through_Surveillance_Cameras/blob/main/Images/Plots/cnn_lstm_model_loss.jpg" alt="Loss" width="400" height="300" style="margin: 10px;"/>
 </div>
 
+## 2D CNN + BiLSTM
+<img src="https://drive.google.com/file/d/1l7k51T_J6dV_vh3J0F8ztfeRS2TEQPY8/view?usp=sharing" alt="Project Diagram" width = "800"/>
+
+
 ## 3D CNN
 ### Architecture 
 <img src="https://github.com/yaseeng-md/Real_Time_Fight_Detection_Through_Surveillance_Cameras/blob/main/Images/Model%20Architectures/3D%20CNN%20Architechure.drawio.png" alt="Project Diagram" width = "800"/>
@@ -119,6 +123,8 @@ Accuracy and Loss Plots
     <img src="https://github.com/yaseeng-md/Real_Time_Fight_Detection_Through_Surveillance_Cameras/blob/main/Images/Plots/3D_CNN_LSTM_Accuracy_plot.jpg" alt="Accuracy" width="400" height="300" style="margin: 10px;"/>
     <img src="https://github.com/yaseeng-md/Real_Time_Fight_Detection_Through_Surveillance_Cameras/blob/main/Images/Plots/3D_CNN_LSTM_Loss_plot.jpg"  alt="Loss" width="400" height="300" style="margin: 10px;"/>
 </div>
+
+
 
 ## Output
 <div style="display: flex; justify-content: center;">
